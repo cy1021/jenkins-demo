@@ -1,0 +1,21 @@
+{
+    "flag":0,
+    "data":[
+        {
+            "id":1,
+            "key":1,
+            "name":"小麟",
+            "department":"技术部",
+            "hiredate":"2019-07-01",
+            "level":"1级"
+        },
+        {
+            "id":1,
+            "key":2,
+            "name":"小煜",
+            "department":"技术部",
+            "hiredate":"2019-07-01",
+            "level":"1级"
+        }
+    ]
+}
